@@ -4,8 +4,8 @@
   <remote name="GitHub" fetch="https://github.com" />
 
   <!-- Device Trees -->
-  <project path="device/samsung/a52sxq" name="anhdat1024/android_device_samsung_a52sxq" remote="GitHub" revision="16.2" />
-  <project path="device/samsung/sm7325-common" name="anhdat1024/android_device_samsung_sm7325-common" remote="GitHub" revision="16.2" />
+  <project path="device/samsung/a52sxq" name="anhdat1024/android_device_samsung_a52sxq" remote="GitHub" revision="16.2-InfinityX" />
+  <project path="device/samsung/sm7325-common" name="anhdat1024/android_device_samsung_sm7325-common" remote="GitHub" revision="16.2-InfinityX" />
 
   <!-- Vendor Trees -->
   <project path="vendor/samsung/a52sxq" name="anhdat1024/android_vendor_samsung_a52sxq" remote="GitHub" revision="16.0" />
@@ -24,5 +24,5 @@
   <project path="vendor/bcr" name="anhdat1024/android_vendor_bcr" remote="GitHub" revision="main" />
 
   <!-- Keys -->
-  <project path="vendor/lineage-priv" name="crdroidandroid/crdroid-priv" remote="GitHub" revision="keys" />
+  <project path="vendor/infinity-priv/keys" name="ProjectInfinity-X/vendor_infinity-priv_keys" remote="GitHub" revision="16" />
 </manifest>
