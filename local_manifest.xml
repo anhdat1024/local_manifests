@@ -23,6 +23,9 @@
   <!-- BCR -->
   <project path="vendor/bcr" name="anhdat1024/android_vendor_bcr" remote="GitHub" revision="main" />
 
+  <!-- GameBar -->
+  <project path="packages/apps/GameBar" name="anhdat1024/packages_apps_GameBar" remote="GitHub" revision="16.0" />
+
   <!-- Keys -->
   <project path="vendor/lineage-priv" name="crdroidandroid/crdroid-priv" remote="GitHub" revision="keys" />
 </manifest>
