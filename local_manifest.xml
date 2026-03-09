@@ -24,7 +24,7 @@
   <project path="vendor/bcr" name="anhdat1024/android_vendor_bcr" remote="GitHub" revision="main" />
 
   <!-- GameBar -->
-  <project path="packages/apps/GameBar" name="anhdat1024/packages_apps_GameBar" remote="GitHub" revision="16.0" />
+  <project path="packages/apps/GameBar" name="anhdat1024/android_packages_apps_GameBar" remote="GitHub" revision="16.0" />
 
   <!-- Keys -->
   <project path="vendor/infinity-priv/keys" name="ProjectInfinity-X/vendor_infinity-priv_keys" remote="GitHub" revision="16" />
