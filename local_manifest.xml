@@ -21,7 +21,7 @@
   <project path="hardware/dolby" name="anhdat1024/android_hardware_dolby" remote="GitHub" revision="16.0" />
   
   <!-- GameBar -->
-  <project path="packages/apps/GameBar" name="anhdat1024/packages_apps_GameBar" remote="GitHub" revision="16.0" />
+  <project path="packages/apps/GameBar" name="anhdat1024/android_packages_apps_GameBar" remote="GitHub" revision="16.0" />
 
   <!-- Keys -->
   <project path="vendor/lineage-priv/keys" name="anhdat1024/keys" remote="GitHub" revision="main" />
